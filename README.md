@@ -10,4 +10,12 @@ Simple Postman collections that show how Postman works
   - Then finally deletes the booking
   - Verifies the deletion
 
-2. ...
+2. Simple Book API
+  - A simple workflow that interacts with a book ordering API
+  - It creates a new user
+  - Requests some book data
+  - Then it orders a book
+  - Updates and patches it
+  - Then finally it deletes the order
+
+3. ...
